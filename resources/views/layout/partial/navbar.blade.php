@@ -10,6 +10,9 @@
                 <li class="nav-item">
                     <a class="nav-link fs-2" href="/motorcycle">MOTORCYCLE</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link fs-2" href="/brand">BRANDS</a>
+                </li>
             </ul>
         </div>
     </div>
